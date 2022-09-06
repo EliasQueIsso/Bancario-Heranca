@@ -1,0 +1,8 @@
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\bin\Debug\ProjetoBancarioHeranca.exe.config
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\bin\Debug\ProjetoBancarioHeranca.exe
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\bin\Debug\ProjetoBancarioHeranca.pdb
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\obj\Debug\ProjetoBancarioHeranca.csproj.AssemblyReference.cache
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\obj\Debug\ProjetoBancarioHeranca.csproj.SuggestedBindingRedirects.cache
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\obj\Debug\ProjetoBancarioHeranca.csproj.CoreCompileInputs.cache
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\obj\Debug\ProjetoBancarioHeranca.exe
+E:\DS\ProjetoBancarioHerança\ProjetoBancarioHeranca\ProjetoBancarioHeranca\obj\Debug\ProjetoBancarioHeranca.pdb
